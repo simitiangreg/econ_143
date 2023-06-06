@@ -1,6 +1,6 @@
 # spring_23
 
-The Spring 23 folder comprises of 6 Projects
+The Spring 2023 repo comprises of 6 projects
 
   1) Duration and Survival Analysis for Prison Recidivism
 
