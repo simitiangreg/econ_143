@@ -1,6 +1,6 @@
-# spring_23
+# econ 143
 
-The Spring 23 folder comprises of 6 Projects
+This repo comprises of a compilation of five problem sets for UC Berkeley's ECON 143, Applied Econometrics. This is an elective course, typically taken after ECON 141, the required econometrics class.
 
   1) Duration and Survival Analysis for Prison Recidivism
 
@@ -11,5 +11,3 @@ The Spring 23 folder comprises of 6 Projects
   4) Regression Tree for Education and Earnings
 
   5) Quantile Regression for Education and Earnings
-
-  6) A Granger-Causality Test between Crude Oil and Military Spending
