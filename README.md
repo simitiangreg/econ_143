@@ -1,6 +1,6 @@
 # econ 143
 
-This repo comprises of a compilation of 5 problem sets for UC Berkeley's ECON 143, Applied Econometrics. This is an elective course, typically taken after ECON 140 (Econometrics) or ECON 141 (Mathematically-Intensive Econometrics), the required econometrics class.
+This repo comprises of a compilation of 5 problem sets / projects for UC Berkeley's ECON 143, Applied Econometrics. I took the course in Spring 2023 with Bryan Graham. This is an elective course, typically taken after ECON 140 (Econometrics) or ECON 141 (Mathematically-Intensive Econometrics), the required econometrics class.
 
   1) Duration and Survival Analysis for Prison Recidivism
 
