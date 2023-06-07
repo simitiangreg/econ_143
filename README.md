@@ -1,4 +1,4 @@
-# UC Berkeley Spring 2023: Economics 143
+# econ 143
 
 This repo comprises of a compilation of 5 problem sets / projects for UC Berkeley's ECON 143, Applied Econometrics. I took the course in Spring 2023 with Bryan Graham. This is an elective course, typically taken after ECON 140 (Econometrics) or ECON 141 (Mathematically-Intensive Econometrics), the required econometrics class.
 
