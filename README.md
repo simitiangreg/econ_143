@@ -8,6 +8,6 @@ This repo comprises of a compilation of five problem sets for UC Berkeley's ECON
 
   3) Production Function Estimation for Chipmakers
 
-  4) Regression Tree for Education and Earnings
+  4) Model Selection and Regression Trees for Education and Earnings
 
   5) Quantile Regression for Education and Earnings
