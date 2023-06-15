@@ -4,6 +4,8 @@ This repo comprises of a compilation of 5 problem sets/projects for UC Berkeley'
 
 This is an elective course, typically taken after ECON 140 (Econometrics) or ECON 141 (Mathematically-Intensive Econometrics), the required econometrics class.
 
+This class was super difficult and rewarding
+
 Project Titles:
 
   1) Duration and Survival Analysis for Prison Recidivism
